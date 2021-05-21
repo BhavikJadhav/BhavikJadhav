@@ -1,12 +1,11 @@
-<h2>Hello there, I'm Bhavik Jadhav 🙋‍♂️</h2>
-<h3>💻👨‍💻An Web and Android developer</h3>
+#  Hello folks 🙋‍♂️ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<h3>💻👨‍💻An Web and Android developer</h3> <img src="https://visitor-badge.glitch.me/badge?page_id=BhavikJadhav" alt="visitor badge"/>
 
 - 👋 Hi, I’m @BhavikJadhav
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in #PHP #android #firebase 
+- 🌱 I’m currently learning #python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 🤗  I love contributing to the open-source ecosystem and the community by giving talks, writing blog posts, co-authoring/reviewing books, building Android libraries, etc. whenever I can.<br/>
 <!---
 BhavikJadhav/BhavikJadhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -25,6 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=BhavikJadhav&show_icons=true&include_all_commits=true&theme=flag-india" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavikJadhav&hide_title=true&layout=compact&bg_color=0,73FDFF,D783FF&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=BhavikJadhav&show_icons=true&include_all_commits=true&theme=flag-india" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavikJadhav&hide_title=true&layout=compact&bg_color=0,73FDFF,D783FF&theme=graywhite" /> 
 
 <hr>
